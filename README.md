@@ -40,11 +40,11 @@ Please review the following documents:
 
 | Resource | Link |
 |---|---|
-| Code of Conduct| [Link](/CodeofConduct.md) |
-| Agenda | [Link](/Agenda.md) |
-| Track Overview | [Link](/TrackOverview.md) |
-| Judging Criteria | [Link](/JudgingCriteria.md) |
-| Submission Criteria | [Link](/SubmissionCriteria.md) |
+| Code of Conduct| [Link](https://github.com/newrelic-experimental/futurehack-2021/blob/main/CodeOfConduct.md) |
+| Agenda | [Link](https://github.com/newrelic-experimental/futurehack-2021/blob/main/Agenda.md) |
+| Track Overview | [Link](https://github.com/newrelic-experimental/futurehack-2021/blob/main/TrackOverview.md) |
+| Judging Criteria | [Link](https://github.com/newrelic-experimental/futurehack-2021/blob/main/JudgingCriteria.md) |
+| Submission Criteria | [Link](https://github.com/newrelic-experimental/futurehack-2021/blob/main/SubmissionCriteria.md) |
 
 ## Support
 
