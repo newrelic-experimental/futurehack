@@ -13,7 +13,7 @@ Build on New Relic: for skilled Data Nerds ready to expand the ecosystem
 Hack for Good: help give back to the community through your observability knowledge
 New Relic Student Edition:  for students to learn about New Relic One and enter to win prizes
 
-## FutureHack Prizes:
+## FutureHack Prizes:*
 
 Best Overall Hack: $10000.00
 
@@ -30,6 +30,8 @@ Most fun application: Nintendo Switch
 Student Challenge: Apple Watch 3
 
 Student Challenge Best Dashboard: Nintendo Switch
+
+__Note:__ [* Terms and conditions apply](https://newrelic.com/futurestack/terms-and-conditions-giveaway) Please read the prizes and giveaway conditions.
 
 
 __Note:__ Before submitting your project, [make sure that you have registered for FutureStack 2021](https://newrelic.com/futurestack) AND [signed your team up for FutureHack](https://docs.google.com/forms/d/e/1FAIpQLSd-VG61vO3WbCza51Qsv7nsofBGvAtXVLR9XsPZOwhjKCWTOw/viewform). Any person or group that hasn't registered for FutureStack will not be eligible to win any prizes.
