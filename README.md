@@ -1,5 +1,7 @@
 [![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Experimental.png)](https://opensource.newrelic.com/oss-category/#new-relic-experimental)
 
+![FutureHack 2021 banner](https://github.com/newrelic-experimental/futurehack-2021/blob/main/images/fh-form-banner.png)
+
 # FutureHack 2021 Guide
 
 FutureHack is a 24-hour virtual hackathon where practitioners, engineers, students, and other New Relic users or non-users will come together to build their best projects in one of four tracks.
