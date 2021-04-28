@@ -1,6 +1,6 @@
 # FutureHack Submission Overview
 
-_*Note:*_ Before submitting your project, [make sure that you have registered for FutureStack 2021]() AND [signed your team up for FutureHack.]() Any person or group that hasn’t registered for FutureStack will not be eligible to win any prizes.
+_*Note:*_ Before submitting your project, [make sure that you have registered for FutureStack 2021](https://web.cvent.com/event/ac440313-3922-45f5-b5b9-0812f29f4a51/summary?RefId=WEBL31&rt=DKI6UYQP806AeXIj4Q4uxw) AND [signed your team up for FutureHack.](https://docs.google.com/forms/d/e/1FAIpQLSd-VG61vO3WbCza51Qsv7nsofBGvAtXVLR9XsPZOwhjKCWTOw/viewform) Any person or group that hasn’t registered for FutureStack will not be eligible to win any prizes.
 
 ## Submission Guideline
 
@@ -15,7 +15,7 @@ Required deliverables listed below
 
 ## Submission Deliverables
 
-Projects submitted for FuturHack judging should be submitted at 12 PM PST and include the following assets:
+Projects submitted for FutureHack judging should be submitted  by 12 PM PST on Wednesday, May 26, 2021 and include the following assets:
 
 Github Repo (if applicable for track)
 Dashboard ID  (if applicable for track)
