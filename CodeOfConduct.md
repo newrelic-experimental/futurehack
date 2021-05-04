@@ -1,6 +1,6 @@
 # FutureHack Code of Conduct
 
-**TL;DR; This hackathon is a community event intended for learning, collaboration, and engagement in the developer community. Harassment of any kind is not tolerated and will lead to immediate disqualification. Be awesome to each other.**
+**TL;DR; This hack-a-thon is a community event intended for learning, collaboration, and engagement in the developer community. Harassment of any kind is not tolerated and will lead to immediate disqualification. Be awesome to each other.**
 
 FutureHack is about connection and innovation. New Relic is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, race, age, religion, or any other protected characteristic under local law or New Relic policy.
 

@@ -17,7 +17,7 @@
 |---|---|
 | 12:00 PM PDT | Kickoff Webinar Video |
 | 12:05 PM PDT | Welcome message |
-| 12:15 PM PDT |  Hackathon Overview |
+| 12:15 PM PDT |  Hack-a-thon Overview |
 | 1:00 PM PDT | Hacking kickoff |
 | 4:00-4:30 PM PDT | Rebroadcast of Kickoff |
 
