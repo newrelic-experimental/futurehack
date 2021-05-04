@@ -1,42 +1,33 @@
 # FutureHack Track Overview
 
 ## The Low Code, No Code
-The low code, no code track is perfect for business analysts, techops, and spreadsheet wizards who want to see how you can use New Relic to understand business metrics better.
 
-__The challenge:__
+The _Low Code, No Code_ track is perfect for business analysts, techops pros, and spreadsheet wizards who want to use New Relic to understand their business metrics better.
 
-Build your most impactful New Relic Dashboard. Share a walkthrough with the details and impact of your dashboard. Explain the NRQL queries you used to create it and how it helps you better understand your system or service and any APIs or instrumentation needed.
+**The challenge:** Build your most impactful New Relic Dashboard. Share your dashboard, the NRQL queries, APIs, and instrumentations you used to create it, and how it helps you better understand your system or service.
 
 ## Build on New Relic
- The build on New Relic track is perfect for skilled Data Nerds and New Relic practitioners ready to push their organization’s dashboards beyond all limits.
 
-__The challenge:__
+The _Build on New Relic track_ is perfect for skilled Data Nerds and New Relic practitioners who are ready to push their organization’s dashboards beyond all limits.
 
-Use the New Relic SDK to build a custom visualization and deploy it to an existing dashboard or a new one if needed. Share your selected components and data, the impact your custom visualization creates, and how you'd plan to use it combined with the data displayed in your dashboard.
+**The challenge:** Use the New Relic One SDK to build a custom visualization and add it to a dashboard. Share how you'd use it, along with other widgets in your dashboard, and how it would benefit your users.
 
 ## Hack for Good
-The Hack for Good track is perfect for every coder, developer, or engineer that wants to hack with minor restrictions.
 
-__The challenge:__
+The _Hack for Good_ track is perfect for every coder, developer, or engineer that wants to hack with minor restrictions and make a difference.
 
-Develop your most kick-ass project for the good of the developer community, your community, or the world. Choose your cause, choose your technology stack, and deliver your most innovative project - points given for New Relic instrumentation and dashboards.
-
+**The challenge:** Build a kick-ass project for the good of other developers, your local or personal community, or the world. Choose your cause. Choose your tech stack. And deliver the most innovative project you can. Then, explain how your project impacts those people. (Bonus points will be awarded for New Relic instrumentation and dashboards.)
 
 ## Student Challenge
- The Student Challenge track is for students to learn about New Relic One in a real-world production environment and take their first peek into the world of DevOps.
 
-__The workshop:__
+The _Student Challenge_ track is for students to learn about New Relic in a real-world environment and take their first step into the world of software Observability.
 
-Attend the Error in Prod workshop, where you will become the lead SRE for the hottest techy store Urban Nerdfitters. In the workshop, you will get a guided walkthrough of New Relic One and get hands-on help us better understand our system.
+**The workshop:** Attend the _Error in Prod_ workshop, where you'll become the lead SRE for the hottest, techiest store—Urban Nerdfitters. In the workshop, you'll get a guided walkthrough of New Relic One and get hands-on to help us better understand our system.
 
-__The challenge:__
-
-Help us solve the issue with our Urban Nerdfitters production environment. The first student to complete all the challenges wins this part of the challenge.
-Based on what you’ve learned, develop your most impactful Urban Nerdfitters New Relic Dashboard. Share a walkthrough with the details and impact of your dashboard. Explain the NRQL queries you used to create it and how it helps you better understand your system.
+**The challenge:** Help us solve the issue with our Urban Nerdfitters production environment. The first student to complete all the challenges wins this part of the challenge. Based on what you’ve learned, develop your most impactful Urban Nerdfitters New Relic Dashboard. Share a walkthrough with the details and impact of your dashboard. Explain the NRQL queries you used to create it and how it helps you better understand your system.
 
 ## RelicHack
-RelicHack is for Relics dedicated to expanding the New Relic ecosystem and expanding our customer value.
 
-__The challenge:__
+The _RelicHack_ track is for Relics dedicated to expanding the New Relic ecosystem and expanding our customer value.
 
-Create a new custom visualization, quickstart, or new entity type contribution to New Relic open source. Provide documentation about your contribution explaining the technology, getting started criteria, and the value a customer gains by deploying their contribution into their New Relic account.
+**The challenge:** Create a new custom visualization, quickstart, or new entity type contribution to New Relic open source. Provide documentation about your contribution explaining the technology, getting started criteria, and the value a customer gains by deploying their contribution into their New Relic account.

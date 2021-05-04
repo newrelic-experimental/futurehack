@@ -6,7 +6,7 @@ Additionally, please review our [code of conduct](CodeOfConduct.md) and [project
 
 ## Low Code, No Code
 
-Build your most impactful New Relic Dashboard. Share your dashboard, the NRQL queries you used to create it, and how it helps you better understand your system or service.
+Build your most impactful New Relic Dashboard. Share your dashboard, the NRQL queries, APIs, and instrumentations you used to create it, and how it helps you better understand your system or service.
 
 1. **Registration:** Did all of the hackers on your team [register for FutureStack 2021](https://newrelic.com/futurestack)? If not, your team isn't qualified to win prizes.
 2. **Value:** Does your dashboard solve a significant and relevant problem? Does that problem affect a market that we know and understand?
@@ -39,7 +39,7 @@ Build a kick-ass project for the good of other developers, your local or persona
 7. **Theme:** Did your team stick to the _Hack for Good_ theme?
 8. **Instrumentation:** Did your team instrument your project with New Relic? Did you create a corresponding dashboard? How effectively is your project instrumented?
 
-## Student Edition, Err in Production
+## Student Challenge, Error in Prod
 
 Take the student workshop, and show off what you learned. Build a New Relic dashboard and complete all of the challenges before anyone else!
 
