@@ -26,8 +26,51 @@ The _Student Challenge_ track is for students to learn about New Relic in a real
 
 **The challenge:** Help us solve the issue with our Urban Nerdfitters production environment. The first student to complete all the challenges wins this part of the challenge. Based on what you’ve learned, develop your most impactful Urban Nerdfitters New Relic Dashboard. Share a walkthrough with the details and impact of your dashboard. Explain the NRQL queries you used to create it and how it helps you better understand your system.
 
-## RelicHack
+## Reli Hack
 
-The _RelicHack_ track is for Relics dedicated to expanding the New Relic ecosystem and expanding our customer value.
+The _Reli Hack_ track is for internal Relics only. The focus of this track is to build contributions for the New Relic ecosystem and expanding our customer value.
 
-**The challenge:** Create a new custom visualization, quickstart, or new entity type contribution to New Relic open source. Provide documentation about your contribution explaining the technology, getting started criteria, and the value a customer gains by deploying their contribution into their New Relic account.
+**The challenge:** Create a new custom visualization, observability pack, or new entity type contribution to New Relic open source. Provide documentation about your contribution explaining the technology, getting started criteria, and the value a customer gains by deploying their contribution into their New Relic account.
+
+More info can be found below on how to get started.
+
+### Custom Visualizations
+**What?**
+* TBD
+
+**Why contribute?**
+
+**How to get started?**
+* TBD
+ 
+**Looking for inspiration?**
+* TBD
+ 
+### Entity Types
+**What?**
+* TBD
+
+**Why contribute?**
+* TBD
+ 
+**How to get started?**
+* TBD
+ 
+**Looking for inspiration?** 
+* TBD
+
+### Observability Pack
+**What?** 
+* An observability pack contains the observability needs for a specific technology or use case in 1 package. This currently includes dashboards, alerts and instrumentation dependencies.
+
+**Why contribute?**
+* Observability Packs provide a high-quality out-of-the-box experience to New Relic users who are looking to monitor their stack
+* It will soon be possible to discover these observability packs inside New Relic One and the goal is to launch with a high-quality set of initial packs
+
+**How to get started?** 
+* Create your first observability pack by following the [Getting Started guide](https://github.com/newrelic/newrelic-observability-packs)
+
+**Looking for inspiration?**
+* Extend the basic dashboard of a New Relic [on-host integrations](https://docs.newrelic.com/docs/integrations/host-integrations/host-integrations-list/) and add alerts
+* Build an observability pack for a more complex technology stack (such as a LAMP, MEAN, .NET or JAVA stack)
+* Create a dashboard and alerts for one of the [New Relic Flex examples](https://github.com/newrelic/nri-flex/tree/master/examples)
