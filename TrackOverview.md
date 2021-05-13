@@ -48,16 +48,18 @@ More info can be found below on how to get started.
  
 ### Entity Types
 **What?**
-* TBD
+* Entity type definitions are a mapping between the telemetry ingested to New Relic and the entities (objects) that users can interact with in New Relic UI. If you have telemetry from any source that is not supported out of the box in New Relic, you can propose a mapping to light up the New Relic experience.  
 
 **Why contribute?**
-* TBD
+* Entities power the experiences in New Relic by grouping all telemetry data under a familiar object such as a container, a MySQL node or an Open Telemetry service. Once a new entity type is defined; all telemetry data corresponding to the rule will get powerfull observability tools such as [Navigator](https://newrelic.com/blog/nerdlog/new-relic-explorer-simple-intuitive-observability), [Lookout](https://newrelic.com/blog/nerdlog/new-relic-explorer-simple-intuitive-observability) or [Workloads](https://docs.newrelic.com/docs/new-relic-one/use-new-relic-one/workloads/workloads-isolate-resolve-incidents-faster/).  
  
 **How to get started?**
-* TBD
+* Create your first entity type by following the [definitions guidelines](https://github.com/newrelic-experimental/entity-synthesis-definitions#guidelines).
  
 **Looking for inspiration?** 
-* TBD
+* Add the [Prometheus node exporter](https://github.com/prometheus/node_exporter) definition to get an out of the box experience for servers and VMs. 
+* Define the entity type for your favorite [Flex integration](https://github.com/newrelic/nri-flex/tree/master/examples)
+* Create the [Hashicorp Vault](https://www.vaultproject.io/) entity type. You can collect (Vault telemetry](https://www.vaultproject.io/docs/internals/telemetry) through [New Relic Prometheus integrations](https://docs.newrelic.com/docs/integrations/prometheus-integrations/get-started/send-prometheus-metric-data-new-relic/). 
 
 ### Observability Pack
 **What?** 
