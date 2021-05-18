@@ -36,15 +36,13 @@ More info can be found below on how to get started.
 
 ### Custom Visualizations
 **What?**
-* TBD
+A custom visualization is a visualization built outside of New Relic that you can import and use on the NR1 platform. This leverages the ability for you to build your own visualization and be able to query not only New Relic data but data outside of New Relic too!  
 
 **Why contribute?**
+Today there is a gap between the visualizations that are offered in New Relic and how customers want to see their data. By contributing, you can help us improve the visualizations that we offer to our customer and allow the a more robust ecosystem of options to get them up and going quicker!
 
 **How to get started?**
-* TBD
- 
-**Looking for inspiration?**
-* TBD
+[Getting Started with Custom Visualizations](https://docs.google.com/document/d/1sh_yctUnhMHIVFqSVM_QD-0aqIwS99g-8TYqA-UIcjM/edit?usp=sharing).  
  
 ### Entity Types
 **What?**
