@@ -31,7 +31,6 @@ Because FutureHack is a virtual hack-a-thon, we'll review and judge project subm
 
 You must submit your dashboard by 12:00 PM (noon) on Wednesday, May 26, 2021 to be judged and elibible for a prize.
 
-🏆 To submit your dashboard
-https://airtable.com/shrba43u0GaDq4UbW
+🏆 To submit your dashboard [fill out the form](https://airtable.com/shrba43u0GaDq4UbW)
 
 🏆 Winners will be announced on Twitter, so follow [@newrelic](https://twitter.com/newrelic)
