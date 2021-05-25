@@ -7,7 +7,7 @@ That’s why New Relic is excited to partner with Bit Project, a tech education 
 Leveraging New Relic, students will navigate through various simulated scenarios ranging from database outages to javascript errors to find and debug errors in production. Through the misguided adventures of D. Bug, the fictional villainous hacker infiltrating our simulated app, students will experience analyzing distributed traces, infrastructure data, and workloads through the New Relic UI.
 
 
-We will have two live sessions of this workshop at FutureHack on the [New Relic Twitch Channel](twitch.tv/new_relic)
+We will have two live sessions of this workshop at FutureHack on the [New Relic Twitch Channel](https://twitch.tv/new_relic)
 
 - 📅 Tuesday, May 25, 2021 @ 1:00 PM PDT
 - 📅 Tuesday, May 25, 2021 @ 5:00 PM PDT
@@ -23,7 +23,7 @@ We are using a CTF platform to host our adventure.
 - Sign up for the platform [here](https://bitproject.ctfd.io). 
 - Get your New Relic credentials [here](https://docs.google.com/forms/d/e/1FAIpQLSfjFJZ0t-_7o7yMuadzYTszCtBBQ55_En_d1LhqGks8uH5ddg/viewform). It may take 3-5 minutes for your submission to be processed and the creds sent to you. 
 
-You can see a real time leaderboard we will use to determine the winners of the game! Slack support will be provided if you are having trouble with the game on the [New Relic Users Slack organization](https://join.slack.com/t/newrelicusers/shared_invite/zt-dh3gka4g-hxFc2GZ4PTXnarex27ZbUQ) and get support in the #hackathon-help channel!
+You can see a real time leaderboard we will use to determine the winners of the game! Slack support will be provided if you are having trouble with the game on the [New Relic Users Slack organization](https://join.slack.com/t/newrelicusers/shared_invite/zt-dh3gka4g-hxFc2GZ4PTXnarex27ZbUQ) and get support in the #futurehack-support channel!
 
 ![Screen Shot 2021-05-24 at 4 56 45 PM](https://user-images.githubusercontent.com/10321085/119420304-0ab80f00-bcb1-11eb-8123-cca8d39b250a.png)
 
