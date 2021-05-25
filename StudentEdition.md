@@ -12,6 +12,9 @@ We will have two live sessions of this workshop at FutureHack on the [New Relic 
 - 📅 Tuesday, May 25, 2021 @ 1:00 PM PDT
 - 📅 Tuesday, May 25, 2021 @ 5:00 PM PDT
 
+🏆 Prizes 
+- 📊 Best Dashboard - the best New Relic dashboard that best captures all of D.Bug's shenanigans in one single source of truth for our engineer will win a **Nintendo Switch**
+- 📊 Fastest SRE - the fastest SRE to complete all of the challenges will win an **Apple Watch** 
 
 Before you submit your project, [register for FutureStack 2021](https://newrelic.com/futurestack) and [sign up for FutureHack](https://docs.google.com/forms/d/e/1FAIpQLSd-VG61vO3WbCza51Qsv7nsofBGvAtXVLR9XsPZOwhjKCWTOw/viewform). If you haven't registered, you won't be eligible to win any prizes.
 
