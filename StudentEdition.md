@@ -15,17 +15,22 @@ We will have two live sessions of this workshop at FutureHack on the [New Relic 
 
 Before you submit your project, [register for FutureStack 2021](https://newrelic.com/futurestack) and [sign up for FutureHack](https://docs.google.com/forms/d/e/1FAIpQLSd-VG61vO3WbCza51Qsv7nsofBGvAtXVLR9XsPZOwhjKCWTOw/viewform). If you haven't registered, you won't be eligible to win any prizes.
 
+## Playing the Game
+We are using a CTF platform to host our adventure. Sign up [here](https://bitproject.ctfd.io)
+
+![Screen Shot 2021-05-24 at 4 56 45 PM](https://user-images.githubusercontent.com/10321085/119420304-0ab80f00-bcb1-11eb-8123-cca8d39b250a.png)
+
+Action Items
+- Sign up 
+- 
 ## Submission Requirements
 
 Because FutureHack is a virtual hack-a-thon, we'll review and judge project submissions during the FutureStack sessions. To ensure that we can reach you if we select your project for a prize, please provide all of the required information.
 
 **All project submissions must include:**
 
-- Team name
-- Team leader name
-- Team leader email address
-- Selected hack-a-thon track
-- Required deliverables listed below
+- Your name
+- Your email address
 
 ## Submission Deliverables
 
