@@ -19,7 +19,11 @@ We will have two live sessions of this workshop at FutureHack on the [New Relic 
 Before you submit your project, [register for FutureStack 2021](https://newrelic.com/futurestack) and [sign up for FutureHack](https://docs.google.com/forms/d/e/1FAIpQLSd-VG61vO3WbCza51Qsv7nsofBGvAtXVLR9XsPZOwhjKCWTOw/viewform). If you haven't registered, you won't be eligible to win any prizes.
 
 ## Playing the Game
-We are using a CTF platform to host our adventure. Sign up [here](https://bitproject.ctfd.io). You can see a real time leaderboard we will use to determine the winners of the game! Slack support will be provided if you are having trouble with the game on the [New Relic Users Slack organization](https://join.slack.com/t/newrelicusers/shared_invite/zt-dh3gka4g-hxFc2GZ4PTXnarex27ZbUQ) and get support in the #hackathon-help channel!
+We are using a CTF platform to host our adventure. 
+- Sign up for the platform [here](https://bitproject.ctfd.io). 
+- Get your New Relic credentials [here](https://docs.google.com/forms/d/e/1FAIpQLSfjFJZ0t-_7o7yMuadzYTszCtBBQ55_En_d1LhqGks8uH5ddg/viewform). It may take 3-5 minutes for your submission to be processed and the creds sent to you. 
+
+You can see a real time leaderboard we will use to determine the winners of the game! Slack support will be provided if you are having trouble with the game on the [New Relic Users Slack organization](https://join.slack.com/t/newrelicusers/shared_invite/zt-dh3gka4g-hxFc2GZ4PTXnarex27ZbUQ) and get support in the #hackathon-help channel!
 
 ![Screen Shot 2021-05-24 at 4 56 45 PM](https://user-images.githubusercontent.com/10321085/119420304-0ab80f00-bcb1-11eb-8123-cca8d39b250a.png)
 
