@@ -20,6 +20,11 @@ We are using a CTF platform to host our adventure. Sign up [here](https://bitpro
 
 ![Screen Shot 2021-05-24 at 4 56 45 PM](https://user-images.githubusercontent.com/10321085/119420304-0ab80f00-bcb1-11eb-8123-cca8d39b250a.png)
 
+## Dashboard
+We are giving away a Nintendo Switch for the best New Relic dashboard that best captures all of D.Bug's shenanigans in one single source of truth for our engineer. Have fun, and get creative! If you need help, go look at the [documentation](https://docs.newrelic.com/docs/query-your-data/explore-query-data/dashboards/introduction-dashboards/)
+
+![image](https://user-images.githubusercontent.com/10321085/119421296-405df780-bcb3-11eb-8dba-763c95cd380c.png)
+
 ## Submission Requirements
 
 Because FutureHack is a virtual hack-a-thon, we'll review and judge project submissions during the FutureStack sessions. To ensure that we can reach you if we select your project for a prize, please provide all of the required information.
