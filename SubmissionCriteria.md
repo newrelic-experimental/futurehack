@@ -29,5 +29,5 @@ You must submit your FutureHack project by 12:00 PM (noon) PDT on Wednesday, May
 
 Use the [FutureHack submission form to submit your final](https://forms.gle/f88nj3yoAmrCciJU8) projects for FutureHack 2021. All projects must be submitted by 12:00 PM (noon) PDT on Wednesday, May 26, 2021.
 
-If you need support, please post in the [FuturHack support Slack](https://join.slack.com/t/newrelicusers/shared_invite/zt-dh3gka4g-hxFc2GZ4PTXnarex27ZbUQ).
+If you need support, please post in the [FutureHack support Slack](https://join.slack.com/t/newrelicusers/shared_invite/zt-dh3gka4g-hxFc2GZ4PTXnarex27ZbUQ).
 
