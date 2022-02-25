@@ -1,6 +1,6 @@
 [![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Experimental.png)](https://opensource.newrelic.com/oss-category/#new-relic-experimental)
 
-![FutureHack banner](https://github.com/newrelic-experimental/futurehack/blob/main/images/fh-form-banner.png)
+![FutureHack banner](https://github.com/newrelic-experimental/futurehack/blob/main/images/futurehack_logo.png)
 
 # FutureHack 2021 Guide
 
