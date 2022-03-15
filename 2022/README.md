@@ -12,18 +12,18 @@ Before you submit your project, [register for FutureStack 2022](https://newrelic
 
 ## FutureHack 2022 Tracks
 
-- **Low Code, No Code:** For business analysts, techops, and spreadsheet wizards who want to see how you can use New Relic to understand business metrics better
-- **Build on New Relic:** For skilled Data Nerds ready to expand the ecosystem
-- **Build Something Amazing:** For those who want to build their most kick-ass app instrumened with New Relic
+- **Continuous Innovation:** Automate all the things with New Relic. This track is perfect for every data engineer who loves geeking out over CI/CD pipelines and automating their daily workflows
+- **Build Something Amazing:** The Build Something Amazing track is perfect for every coder, developer, or engineer that wants to build something incredible with any tech stack they choose
+- **Community Hack:** The Community Hack track is for every open source enthusiast who wants to contribute back to the open source community
 
 ## FutureHack Prizes
 
 | Category | Prize |
 |---|---|
 | Best Overall Hack | $10000 |
-| Best Hack Low Code, No Code | $5000 |
-| Best Hack Build New Relic | $5000 |
+| Best Hack Continuous Innovation | $5000 |
 | Best Hack Build Something Amazing | $5000 |
+| Best Hack Build Community Hack | $5000 |
 | Best New Hacker | MacBook Pro |
 | Most fun application | OLED Nintendo Switch |
 
