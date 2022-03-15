@@ -1,19 +1,28 @@
 # FutureHack Track Overview
 
-## The Low Code, No Code
+## Continuous Innovation
 
-The _Low Code, No Code_ track is perfect for business analysts, techops pros, and spreadsheet wizards who want to use New Relic to understand their business metrics better.
+Automate all the things with New Relic. This track is perfect for every data engineer who loves geeking out over CI/CD pipelines and automating their daily workflows.
 
-**The challenge:** Build your most impactful New Relic Dashboard. Share a walkthrough with the details and impact of your dashboard. Explain the NRQL queries you used to create it and how it helps you better understand your system or service and any APIs or instrumentation needed. 
+**The challenge:**
 
-## Build on New Relic
-
-The _Build on New Relic track_ is perfect for skilled Data Nerds and New Relic practitioners who are ready to push their organization’s dashboards beyond all limits.
-
-**The challenge:** Use the New Relic One SDK to build a custom visualization and add it to a dashboard. Share how you'd use it, along with other widgets in your dashboard, and how it would benefit your users.
+Build your most impactful automation workflow with New Relic and deploy it to an automation pipeline service. Choose your favorite CI/CD service, and create the most useful workflow utility that leverages the automation data in New Relic One. Share your workflow files and examples of how the automation data is being used in your New Relic dashboards. 
+ 
 
 ## Build Something Amazing
 
-The _Build Something Amazing_ track is perfect for every coder, developer, or engineer that wants to hack with minor restrictions.
+The Build Something Amazing track is perfect for every coder, developer, or engineer that wants to build something incredible with any tech stack they choose. 
 
-**The challenge:** Develop your most kick-ass project and use the power of instrumenting with New Relic to supercharge your creation. Choose your technology stack, and deliver your most innovative project - points given for New Relic instrumentation and dashboards.
+**The challenge:**
+
+Develop your most kick-ass project and use the power of instrumenting with New Relic to supercharge your creation. Choose your technology stack, and deliver your most innovative project - points given for New Relic instrumentation with either a [New Relic agent](https://github.com/newrelic?q=agent&type=all&language=&sort=) or a [New Relic Open Telemetry library](https://github.com/newrelic?q=telemetry&type=all&language=&sort=). 
+
+
+## Community Hack
+
+The Community Hack track is for every open source enthusiast who wants to contribute back to the open source community.
+
+**The challenge:**
+
+Pick an open source project, take on the most interesting issue, and hack on a solution giving back to your favorite open source projects. Extra points for choosing an open source [CNCF (Cloud Native Computing Foundation) project](https://github.com/open-telemetry)!
+

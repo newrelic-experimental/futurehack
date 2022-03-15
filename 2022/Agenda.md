@@ -40,5 +40,5 @@
 
 | Time | Presentation |
 |---|---|
-| TIME TBA | Awards ceremony |
+| 12:15 PM PDT | Awards ceremony |
 
